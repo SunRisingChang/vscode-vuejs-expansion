@@ -1,0 +1,42 @@
+{
+  "name": "vscode-vuejs-expansion",
+  "displayName": "VSCode Vue.js Expansion",
+  "description": "Vue.js常用的开发依赖扩展包",
+  "author": "SunRising",
+  "version": "0.0.1",
+  "publisher": "SunRising",
+  "icon": "asset/logo.png",
+  "engines": {
+    "vscode": "^1.30.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "andrzejzwierzchowski.al-code-outline",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "CoenraadS.bracket-pair-colorizer",
+    "dariofuzinato.vue-peek",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "ecmel.vscode-html-css",
+    "eg2.vscode-npm-script",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "idleberg.icon-fonts",
+    "mikey.vscode-fileheader",
+    "mrmlnc.vscode-attrs-sorter",
+    "MS-CEINTL.vscode-language-pack-zh-hans",
+    "octref.vetur",
+    "pranaygp.vscode-css-peek",
+    "robertohuertasm.vscode-icons",
+    "shd101wyy.markdown-preview-enhanced",
+    "streetsidesoftware.code-spell-checker",
+    "SunRising.web-dev-snippets",
+    "wayou.vscode-todo-highlight",
+    "wix.vscode-import-cost",
+    "wmaurer.change-case"
+  ]
+}
