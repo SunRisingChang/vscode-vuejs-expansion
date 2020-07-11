@@ -1,7 +1,9 @@
 # Change Log
-All notable changes to the "vscode-vuejs-expansion" extension pack will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+### v0.0.1 - 2018/12/16
 
-## [Unreleased]
-- Initial release
+- 开发 Vue 时的插件包
+
+### v0.0.2 - 2019/10/14
+
+- 添加说明文档

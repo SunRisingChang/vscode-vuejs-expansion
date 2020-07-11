@@ -3,7 +3,7 @@
   "displayName": "VSCode Vue.js Expansion",
   "description": "Vue.js常用的开发依赖扩展包",
   "author": "SunRising",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "SunRising",
   "icon": "asset/logo.png",
   "engines": {
@@ -12,6 +12,7 @@
   "categories": [
     "Extension Packs"
   ],
+  "repository": "https://github.com/SunRisingChang/vscode-vuejs-expansion",
   "extensionPack": [
     "andrzejzwierzchowski.al-code-outline",
     "christian-kohler.npm-intellisense",
